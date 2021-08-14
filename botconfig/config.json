@@ -21,11 +21,11 @@
        "COMMENT": "time_delay 0 === insta leave",
     "progressbar_emoji": "🔶",
     "leaveOnEmpty_Channel" : {
-      "enabled": true,
+      "enabled": false,
       "time_delay": 60000
     },
     "LeaveOnEmpty_Queue": {
-      "enabled": true,
+      "enabled": false,
       "time_delay": 30000
     },
     "selfDeaf": true,
