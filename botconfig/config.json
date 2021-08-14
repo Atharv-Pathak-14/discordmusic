@@ -5,9 +5,9 @@
   "clientsettings": {
     "nodes": [
       {
-         "host": "localhost",
-         "port": 2333,
-         "password": "youshallnotpass"
+         "host": "lava.link",
+         "port": 80,
+         "password": "anything as a password"
        }
      ]
   },
