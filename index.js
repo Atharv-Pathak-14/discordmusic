@@ -41,7 +41,7 @@ client.modActions = new Enmap({ name: 'actions', dataDir: "./databases/warns" })
 client.userProfiles = new Enmap({ name: 'userProfiles', dataDir: "./databases/warns" });
 
 //login into the bot
-client.login(TOKEN);
+client.login(process.env['token'])
 /**
   * @INFO
   * Bot Coded by Tomato#6966 | https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js
